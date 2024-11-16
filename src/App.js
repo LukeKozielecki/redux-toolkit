@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { Counter } from './features/counter/Counter'
-import { TodoListBuilder } from './features/counter/TodoListBuilder'
+import { TodoListBuilder } from './features/todoList/TodoListBuilder'
 
 function App() {
   return (
